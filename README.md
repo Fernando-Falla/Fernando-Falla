@@ -1,16 +1,39 @@
-## Hi there 👋
+### Hola, soy Fernando Falla 👋
 
-<!--
-**Fernando-Falla/Fernando-Falla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Engineer · RAG e IA generativa** · Python · FastAPI · Docker · OCI
 
-Here are some ideas to get you started:
+Colombia · disponible para trabajo remoto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Construyo sistemas de IA generativa de punta a punta: ingestión y chunking de documentos, embeddings y bases vectoriales, LLM locales y por API, APIs con FastAPI y despliegue con Docker en Oracle Cloud. Mido la calidad (retrieval, fidelidad de las respuestas) y documento las decisiones en ADRs y bitácoras técnicas.
+
+Vengo de más de 15 años en ingeniería eléctrica, telecomunicaciones e instrumentación industrial. Esa experiencia es mi ventaja en IA aplicada: sé cómo opera una planta, qué exige la seguridad en campo y qué necesita un cliente técnico.
+
+---
+
+#### 🔧 Proyectos destacados
+
+| Proyecto | Qué es | Stack |
+|---|---|---|
+| [**NuevaMente — Data & IA Pipeline**](https://github.com/Fernando-Falla/NuevaMente_DataIA) | Convierte documentación técnica en material educativo adaptado al lector. Chunking estructural, embeddings locales elegidos con métricas, juez de fidelidad por ítem (LLM-as-a-judge) y API con streaming SSE. | Python · ChromaDB · fastembed · Gemini/Groq · FastAPI · Pydantic v2 · pytest |
+| [**Agente RAG híbrido para documentos internos**](https://github.com/Fernando-Falla/Agente_IA_wRAG_Challenge) | RAG sobre políticas en PDF más consultas deterministas sobre inventario, para que las cifras no dependan del LLM. Autoalojado en OCI (jul – ago 2026) con profiling de recursos. | LangChain · ChromaDB · Ollama (Gemma, bge-m3) · FastAPI · Streamlit · Docker Compose · OCI |
+| **CMMS-SST** *(código privado; demo con acceso a solicitud)* | Plataforma SaaS (PWA) de mantenimiento y SST: órdenes de trabajo, codificación de fallas al estilo ISO 14224, MTTR/MTBF, permisos y ATS, modo sin conexión. En evaluación por una empresa del sector químico. | TypeScript · PWA · Vitest · Cloudflare Pages · ~19 ADRs |
+<!-- Activar cuando existan:
+| [**Análisis de sentimiento Bi-LSTM**](https://github.com/Fernando-Falla/sentiment-analysis-bilstm) | Modelo Bi-LSTM de 3 clases servido con FastAPI y desplegado en OCI en 2 VMs con Docker y Nginx (Hackathon ONE G8). | Keras · FastAPI · Docker · Nginx · OCI |
+| [**Bitácora de despliegues en OCI**](https://github.com/Fernando-Falla/bitacora-despliegues-oci) | Casos reales de troubleshooting: Autonomous Database, Load Balancer, Security Lists, firewalld y SELinux. | OCI · Linux · Docker · Nginx |
 -->
+
+#### 🧰 Stack
+
+- **IA generativa:** RAG · LangChain · embeddings · ChromaDB · reranking · Ollama · Gemini · Groq · evaluación de RAG
+- **Backend y datos:** Python · FastAPI · Pydantic · pandas · PyMuPDF · pytest
+- **Cloud y DevOps:** Oracle Cloud Infrastructure · Docker / Docker Compose · Linux (Oracle Linux) · Nginx · Git
+- **Método:** Spec Driven Development · ADRs · desarrollo asistido por IA
+
+#### 📜 Certificaciones
+
+- Oracle Cloud Infrastructure Certified AI Foundations Associate (2026)
+- Oracle Cloud Infrastructure 2025 Certified Foundations Associate
+
+#### 📫 Contacto
+
+[LinkedIn](https://www.linkedin.com/in/fernando-falla-datascience-ia) · livesurfer@hotmail.com
