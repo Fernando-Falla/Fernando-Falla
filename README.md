@@ -17,10 +17,8 @@ Vengo de más de 15 años dirigiendo proyectos de ingeniería eléctrica, teleco
 | [**NuevaMente — Data & IA Pipeline**](https://github.com/Fernando-Falla/NuevaMente_DataIA) | Convierte documentación técnica en material educativo adaptado al lector. Chunking estructural, embeddings locales elegidos con métricas, juez de fidelidad por ítem (LLM-as-a-judge) y API con streaming SSE. | Python · ChromaDB · fastembed · Gemini/Groq · FastAPI · Pydantic v2 · pytest |
 | [**Agente RAG híbrido para documentos internos**](https://github.com/Fernando-Falla/Agente_IA_wRAG_Challenge) | RAG sobre políticas en PDF más consultas deterministas sobre inventario, para que las cifras no dependan del LLM. Autoalojado en OCI (jul – ago 2026) con profiling de recursos. | LangChain · ChromaDB · Ollama (Gemma, bge-m3) · FastAPI · Streamlit · Docker Compose · OCI |
 | **CMMS-SST** *(código privado; demo con acceso a solicitud)* | Plataforma SaaS (PWA) de mantenimiento y SST: órdenes de trabajo, codificación de fallas al estilo ISO 14224, MTTR/MTBF, permisos y ATS, modo sin conexión. En evaluación por una empresa del sector químico. | TypeScript · PWA · Vitest · Cloudflare Pages · ~19 ADRs |
-<!-- Activar cuando existan:
 | [**Análisis de sentimiento Bi-LSTM**](https://github.com/Fernando-Falla/sentiment-analysis-bilstm) | Modelo Bi-LSTM de 3 clases servido con FastAPI y desplegado en OCI en 2 VMs con Docker y Nginx (Hackathon ONE G8). | Keras · FastAPI · Docker · Nginx · OCI |
 | [**Bitácora de despliegues en OCI**](https://github.com/Fernando-Falla/bitacora-despliegues-oci) | Casos reales de troubleshooting: Autonomous Database, Load Balancer, Security Lists, firewalld y SELinux. | OCI · Linux · Docker · Nginx |
--->
 
 #### 🧰 Stack
 
