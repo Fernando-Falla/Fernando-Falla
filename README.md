@@ -6,7 +6,7 @@ Colombia · disponible para trabajo remoto
 
 Construyo sistemas de IA generativa de punta a punta: ingestión y chunking de documentos, embeddings y bases vectoriales, LLM locales y por API, APIs con FastAPI y despliegue con Docker en Oracle Cloud. Mido la calidad (retrieval, fidelidad de las respuestas) y documento las decisiones en ADRs y bitácoras técnicas.
 
-Vengo de más de 15 años en ingeniería eléctrica, telecomunicaciones e instrumentación industrial. Esa experiencia es mi ventaja en IA aplicada: sé cómo opera una planta, qué exige la seguridad en campo y qué necesita un cliente técnico.
+Vengo de más de 15 años dirigiendo proyectos de ingeniería eléctrica, telecomunicaciones e instrumentación para clientes industriales, comerciales y del sector público. De ahí traigo lo que más pesa en IA aplicada: trabajar por metas, entender qué necesita el negocio y el cliente antes de elegir la tecnología, y entregar soluciones que funcionen en la operación real.
 
 ---
 
