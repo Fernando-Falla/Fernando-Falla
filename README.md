@@ -34,4 +34,4 @@ Vengo de más de 15 años dirigiendo proyectos de ingeniería eléctrica, teleco
 
 #### 📫 Contacto
 
-[LinkedIn](https://www.linkedin.com/in/fernando-falla-datascience-ia) · livesurfer@hotmail.com
+[LinkedIn](https://www.linkedin.com/in/fernando-falla-ortiz) · livesurfer@hotmail.com
