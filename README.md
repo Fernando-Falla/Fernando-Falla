@@ -6,7 +6,7 @@ Colombia · disponible para trabajo remoto
 
 Construyo sistemas de IA generativa de punta a punta: ingestión y chunking de documentos, embeddings y bases vectoriales, LLM locales y por API, APIs con FastAPI y despliegue con Docker en Oracle Cloud. Mido la calidad (retrieval, fidelidad de las respuestas) y documento las decisiones en ADRs y bitácoras técnicas.
 
-Vengo de más de 15 años en ingeniería, dirigí proyectos eléctricos y de telecomunicaciones para clientes industriales, comerciales y constructoras de vivienda, especifiqué instrumentación para la industria. De ahí traigo lo que más pesa en IA aplicada: trabajar por metas, entender qué necesita el negocio y el cliente antes de elegir la tecnología, y entregar soluciones que funcionen en la operación real.
+Vengo de más de 15 años en ingeniería: dirigí proyectos eléctricos y de telecomunicaciones en los sectores industrial, comercial, institucional y de vivienda, y especifiqué instrumentación para la industria. De ahí traigo lo que más pesa en IA aplicada: trabajar por metas, entender qué necesita el negocio y el cliente antes de elegir la tecnología, y entregar soluciones que funcionen en la operación real.
 
 ---
 
@@ -14,10 +14,10 @@ Vengo de más de 15 años en ingeniería, dirigí proyectos eléctricos y de tel
 
 | Proyecto | Qué es | Stack |
 |---|---|---|
-| [**NuevaMente — Data & IA Pipeline**](https://github.com/Fernando-Falla/NuevaMente_DataIA) | Convierte documentación técnica en material educativo adaptado al lector. Chunking estructural, embeddings locales elegidos con métricas, juez de fidelidad por ítem (LLM-as-a-judge) y API con streaming SSE. | Python · ChromaDB · fastembed · Gemini/Groq · FastAPI · Pydantic v2 · pytest |
-| [**Agente RAG híbrido para documentos internos**](https://github.com/Fernando-Falla/Agente_IA_wRAG_Challenge) | RAG sobre políticas en PDF más consultas deterministas sobre inventario, para que las cifras no dependan del LLM. Autoalojado en OCI (jul – ago 2026) con profiling de recursos. | LangChain · ChromaDB · Ollama (Gemma, bge-m3) · FastAPI · Streamlit · Docker Compose · OCI |
-| **CMMS-SST** *(código privado; demo con acceso a solicitud)* | Gestión del mantenimiento, órdenes de trabajo, fallas al estilo ISO 14224, MTTR/MTBF, módulo de apoyo SST, modo sin conexión. Hoy una empresa del sector químico evalúa su demo. | TypeScript · PWA · Vitest · Cloudflare Pages · ~19 ADRs |
-| [**Análisis de sentimiento Bi-LSTM**](https://github.com/Fernando-Falla/sentiment-analysis-bilstm) | Modelo Bi-LSTM de 3 clases servido con FastAPI y desplegado en OCI en 2 VMs con Docker y Nginx (Hackathon ONE G8). | Keras · FastAPI · Docker · Nginx · OCI |
+| [**NuevaMente — Data & IA Pipeline**](https://github.com/Fernando-Falla/NuevaMente_DataIA) | Convierte documentación técnica en material educativo adaptado al lector (Hackathon ONE G10). Chunking estructural, embeddings locales elegidos con métricas, juez de fidelidad por ítem (LLM-as-a-judge) y API con streaming SSE. | Python · ChromaDB · fastembed · Gemini/Groq · FastAPI · Pydantic v2 · pytest |
+| [**Agente RAG híbrido para documentos internos**](https://github.com/Fernando-Falla/Agente_IA_wRAG_Challenge) | RAG sobre políticas en PDF más consultas deterministas sobre inventario, para que las cifras no dependan del LLM. Desplegado en OCI (jul – 30-ago-2026), con profiling de recursos. | LangChain · ChromaDB · Ollama (Gemma, bge-m3) · FastAPI · Streamlit · Docker Compose · OCI |
+| **CMMS-SST** *(código privado; demo con acceso a solicitud)* | Demo funcional de gestión del mantenimiento: órdenes de trabajo, fallas al estilo ISO 14224, MTTR/MTBF, módulo de apoyo SST y modo sin conexión, con datos simulados. Hoy una empresa del sector químico evalúa su demo. | TypeScript · PWA · Vitest · Cloudflare Pages · ~19 ADRs |
+| [**Análisis de sentimiento Bi-LSTM**](https://github.com/Fernando-Falla/sentiment-analysis-bilstm) | Modelo Bi-LSTM de 3 clases servido con FastAPI y desplegado en OCI en 2 VMs con Docker y Nginx (Hackathon ONE G8, ene 2026). El modelo está en reentrenamiento; todavía sin métricas. | Keras · FastAPI · Docker · Nginx · OCI |
 | [**Bitácora de despliegues en OCI**](https://github.com/Fernando-Falla/bitacora-despliegues-oci) | Casos reales de troubleshooting: Autonomous Database, Load Balancer, Security Lists, firewalld y SELinux. | OCI · Linux · Docker · Nginx |
 
 #### 🧰 Stack
